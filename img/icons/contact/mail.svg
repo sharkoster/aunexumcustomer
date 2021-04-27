@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="43px" viewBox="0 0 60 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Group 9</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.357025 0.703 57.497775 0.703 57.497775 26.0605 0.357025 26.0605"></polygon>
+    </defs>
+    <g id="-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Aunexum-Safe_Contact" transform="translate(-1045.000000, -305.000000)">
+            <g id="Group-9" transform="translate(1045.000000, 305.000000)">
+                <g id="Group-6" transform="translate(1.000000, 0.000000)">
+                    <path d="M28.940575,30.2948 L21.523825,23.8931333 L0.358575,41.8408 C1.125825,42.5461333 2.156575,42.9984667 3.303575,42.9984667 L54.554325,42.9984667 C55.701325,42.9984667 56.724325,42.5461333 57.499325,41.8408 L36.326325,23.8931333 L28.940575,30.2948 Z" id="Fill-1" fill="#B88E2D"></path>
+                    <g id="Group-5">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-4"></g>
+                        <path d="M57.497775,1.83383333 C56.746025,1.13616667 55.699775,0.699166667 54.560525,0.699166667 L3.302025,0.699166667 C2.178275,0.699166667 1.124275,1.13616667 0.357025,1.85683333 L28.939025,26.0605 L57.497775,1.83383333 Z" id="Fill-3" fill="#B88E2D" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+                <polygon id="Fill-7" fill="#B88E2D" points="0 40 21 22.7022901 0 5"></polygon>
+                <polygon id="Fill-8" fill="#B88E2D" points="39 22.6985166 60 40 60 5"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

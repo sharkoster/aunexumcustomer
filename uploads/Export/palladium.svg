@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="25px" viewBox="0 0 34 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 34 0 34 21 0 21"></polygon>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Palladium" transform="translate(0.000000, -1.000000)">
+            <g id="Group-2" transform="translate(0.000000, 1.000000)">
+                <g id="Group-3" transform="translate(0.000000, 4.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M33.531217,19.0368087 C32.9124738,20.2518685 31.760679,21 30.5143715,21 L3.48751876,21 C2.24373158,21 1.08941643,20.2518685 0.463112248,19.0368087 C-0.154370749,17.8309043 -0.154370749,16.3267937 0.463112248,15.1221973 L7.22140064,1.96188341 C7.85022516,0.746823617 8.99193862,0 10.2458072,0 L23.7560831,0 C24.9998703,0 26.1453642,0.746823617 26.7704083,1.96188341 L33.531217,15.1221973 C34.156261,16.3372571 34.156261,17.8309043 33.531217,19.0368087" id="Fill-1" fill="#B7B8B6" mask="url(#mask-2)"></path>
+                </g>
+                <polygon id="Fill-4" stroke="#B7B8B6" stroke-width="0.5" fill="#FEFEFE" points="27.0025698 0 25.7729442 5.76742904 20 7.00064297 25.7729442 8.23514283 27.0025698 14 28.2257709 8.23514283 34 7.00064297 28.2257709 5.76742904"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

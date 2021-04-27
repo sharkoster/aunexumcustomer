@@ -1,0 +1,97 @@
+/*
+================================================================================
+|                                    Mijn-edelmetalen                                 |
+================================================================================
+*/
+
+.c-green {
+    color: $green !important;
+}
+.c-red {
+    color: $red-negative !important;
+}
+
+.c-gold {
+    color: $gold !important;
+}
+
+.table-metal-gold,
+.table-metal-silver {
+    td {
+        padding-bottom: 5px;
+    }
+    td,
+    td > a {
+        //border: none;
+        @include font('Avenir-Medium', 12px, #515e6b);
+    }
+    tr:nth-of-type(even) {
+        background-color: rgba(184, 142, 45, 0.06);
+    }
+    tr:nth-of-type(odd) {
+        background-color: $white;
+    }
+    thead > tr > th {
+        background-color: rgba(184, 142, 45, 0.12);
+        border-bottom: none;
+        border-top: none;
+        font-size: 12px;
+    }
+    tbody > tr > td:nth-child(7),
+    tbody > tr > td:nth-child(8) {
+        white-space: nowrap;
+    }
+    thead th,
+    tbody > tr:last-child td {
+        @include font('Avenir-Bold', 14px, $donkergrijs);
+    }
+    .btn-sm {
+        margin-top: -5px ;
+    }
+}
+
+.table-metal-silver {
+    tr:nth-of-type(even) {
+        background-color: rgba(183, 184, 182, 0.1);
+    }
+    thead > tr > th {
+        background-color: rgba(183, 184, 182, 0.2);
+    }
+}
+
+.expand,
+.expand-up{
+    font-family: "Avenir-Medium", sans-serif !important;
+    font-size: 12px !important;
+    color: #515e6b !important;
+    text-decoration: none !important;
+    display: inline-block;
+    height : 22px;
+    width: 2em;
+    padding: 0 4px;
+    -webkit-appearance : none;
+    background-color: inherit;
+    background-image   : url('/img/icons/arrow/arrow_down_black.svg');
+    background-position: right 30%;
+    background-repeat  : no-repeat;
+    border: none;
+    line-height        : 1em;
+    /* for FF */
+    -moz-appearance    : none;
+    text-indent        : 0.01px;
+    text-overflow      : '';
+    /* for IE */
+    -ms-appearance     : none;
+    appearance         : none !important;
+    &::-ms-expand {
+        display: none;
+    }
+}
+.expand-up {
+    background-image   : url('/img/icons/arrow/arrow_up_black.svg');
+}
+
+.precios-note {
+    @include font('Avenir-Medium', 14px,  $donkergrijs);
+}
+

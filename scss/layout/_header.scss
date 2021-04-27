@@ -1,0 +1,158 @@
+
+/*
+================================================================================
+|                                     HEADER                                   |
+================================================================================
+*/
+
+header{
+
+}
+
+#navbar-wrapper.navbar {
+	max-width: $max-width;
+	margin-right: auto;
+	margin-left: auto;
+	@include shadow(0 2px 4px 0 rgba(0, 0, 0, 0.3));
+	background-color: $base-bg;
+	a.nav-link {
+		@include font(Avenir-Medium, 14px, $black);
+		&:hover {
+			color: $donkergrijs;
+		}
+	}
+	.nav-item {
+		line-height: inherit;
+		#menu-user, #logout {
+			@include transition($default-transition);
+			img:hover {
+				@include shadow($default-box-shadow);
+			}
+		}
+		&:first-child {
+			margin-right: 1em;
+		}
+		&:nth-child(2) {
+			margin-left: .6em;
+			margin-right: .6em;
+		}
+		#menu-user {
+			img {
+				margin-top: -5px;
+				&:hover{
+					@include radius(50%);
+				}
+			}
+		}
+	}
+	.navbar-nav {
+		flex-direction: inherit;
+	}
+}
+
+%silver-border{
+	position: relative;
+	&:before {
+		content:  '';
+		position: absolute;
+		width: 3px;
+		right: 0;
+		height: 60%;
+		background: $silver;
+		top: 15%;
+		@include transition($default-transition);
+	}
+}
+
+#menu-img {
+	display: inline-block;
+	background: inherit;
+	padding-right: 1.5em;
+	@extend %silver-border;
+	&:hover {
+		cursor: pointer;
+		&:before {
+			background: $palladium;
+		}
+	}
+	& > img {
+		width: 201px;
+		height: auto;
+		margin-top: 0;
+	}
+}
+
+.head-words {
+	font-family: Avenir-Bold, sans-serif;
+	font-size: 14px;
+	margin-left: 1em;
+}
+
+.navbar-toggler {
+	@include transition($default-transition);
+	&:hover {
+		@include shadow(0 0 40px rgba(0, 0, 0, .1) inset);
+	}
+}
+
+.navbar-toggler-icon {
+	transition: inherit;
+}
+
+.icon-close {
+	background-image: none !important;
+	vertical-align: middle;
+	background-size: 100% 100%;
+	position: relative;
+	right: 1px;
+	top: -2px;
+	opacity: 0.7;
+}
+.icon-close:hover {
+	opacity: 1;
+}
+.icon-close:before, .icon-close:after {
+	position: absolute;
+	left: 15px;
+	content: ' ';
+	height: 33px;
+	width: 2px;
+	background-color: #333;
+}
+.icon-close:before {
+	@include rotate(45deg);
+}
+.icon-close:after {
+	@include rotate(-45deg);
+}
+
+
+
+@media screen and (max-width: 1200px) {
+	
+}
+
+@media screen and (min-width: 992px){
+	
+}
+
+@media screen and (max-width: 991px) {
+	#menu-img img{
+		width: 101px;
+		height: auto;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+	.navbar-toggler {
+		display: none;
+	}
+}
+
+@media screen and (min-width: 768px) {
+
+}
+
+@media screen and (max-width: 767px) {
+	
+}

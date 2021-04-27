@@ -1,0 +1,171 @@
+
+/*
+================================================================================
+|                                     Mijn gegevens                                  |
+================================================================================
+*/
+
+.big-tabs{
+    margin: 0 auto 2em;
+    max-width: 900px;
+    min-height: 300px;
+    //@extend %big-border;
+    .nav-item {
+        width: auto;
+        padding: 0;
+        box-shadow: 0 0 10px #ffffff inset;
+        display: flex;
+        justify-content: space-between;
+        & > .nav-link {
+            display: inline-block;
+            width: 160px;
+            min-height: 120px;
+            text-align: center;
+            text-decoration: none !important;
+            font-size: 14px;
+            color: $white;
+            background-color: $blue;
+            padding: 18px 3px 3px;
+            line-height: 1.43;
+            border-top-right-radius: 12px;
+            border-top-left-radius: 12px;
+            .tab-img {
+                display: block;
+                width: 100%;
+                height: 40px;
+                margin-bottom: 5px;
+                background-position: center;
+                background-color: transparent;
+                background-repeat: no-repeat;
+                background-size: auto;
+            }
+        }
+        & > .nav-link.disabled {
+            background-color: $silver;
+            color: $palladium;
+        }
+        & > .nav-link.active {
+            color: $blue;
+            background-color: $white;
+            border: solid 2px #EFEFEF;
+            @include shadow(-2px -2px 17px -5px rgba(48, 48, 48, 0.07));
+            border-bottom: 0;
+            border-top-left-radius: 12px;
+            border-top-right-radius: 12px;
+        }
+    }
+
+    .tab-content {
+        @extend %big-border;
+        border-top-left-radius: unset;
+        border-top-right-radius: unset;
+        border-top: none;
+        font-size: 16px;
+        font-family: 'Avenir-Medium', sans-serif;
+        line-height: 2em;
+        h4 {
+            text-align: center;
+            margin: 16px 0 22px;
+            font-family: inherit !important;
+            font-size: 16px;
+            & > a {
+                font-family: inherit !important;
+                color: $blue;
+            }
+        }
+    }
+
+    .personal-data {
+        background-image: url("/img/icons/my_details/persoonsgegevens.svg");
+    }
+    .active > .personal-data {
+        background-image: url("/img/icons/my_details/persoonsgegevens-actief.svg");
+    }
+    .company-details {
+        background-image: url("/img/icons/my_details/bedrijfsgegevens.svg");
+    }
+    .active > .company-details {
+        background-image: url("/img/icons/my_details/bedrijfsgegevens-actief.svg");
+    }
+    .authorized-representative {
+        background-image: url("/img/icons/my_details/gemachtigde_select.svg");
+    }
+    .active > .authorized-representative {
+        background-image: url("/img/icons/my_details/gemachtigde_actief.svg");
+    }
+    .financial-details {
+        background-image: url("/img/icons/my_details/financielegegevens.svg");
+    }
+    .active > .financial-details {
+        background-image: url("/img/icons/my_details/financielegegevens-actief.svg");
+    }
+    .billing {
+        background-image: url("/img/icons/my_details/facturatie.svg");
+    }
+    .active > .billing {
+        background-image: url("/img/icons/my_details/facturatie-actief.svg");
+    }
+}
+
+.gold22 {
+    @include font($custom-font-family, 22px, $gold);
+}
+.blue18{
+    @include font('Avenir-Bold', 16px, $blue);
+}
+
+#finantion-data-invest,
+#incasso-form {
+    display: none;
+}
+
+
+@media (min-width: 878px) and (max-width: 991px) {
+    /* стили для sm-устройств */
+    .big-tabs .nav-tabs > .nav-item > .nav-link {
+        width: 140px;
+        .tab-img {
+            background-size: 10% !important;
+        }
+    }
+}
+
+@media (max-width: 877px) {
+    /* стили для sm-устройств */
+    .big-tabs .nav-tabs > .nav-item > .nav-link {
+        width: 110px;
+    }
+}
+
+@media (max-width: 991px) {
+    .big-tabs .nav-tabs > .nav-item > .nav-link {
+        min-height: 60px;
+        height: auto;
+        font-size: 12px;
+        padding-top: 5px;
+        font-family: 'Avenir-Demi', serif !important;
+        .tab-img {
+            height: auto;
+            background-size: 15%;
+        }
+        .tab-img.billing {
+            background-size: 12%;
+        }
+    }
+}
+
+@media (max-width: 600px) {
+    /* xs < 600 */
+    .big-tabs{
+        .nav-item {
+            padding-top: .5em;
+            margin-right: .5em;
+        }
+        .nav-item:last-child {
+            margin-right: 0;
+        }
+    }
+}
+
+
+

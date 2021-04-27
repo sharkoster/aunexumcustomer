@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Photo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sidemenu&gt;Portfolio" transform="translate(-15.000000, -118.000000)" fill="#FFFFFF">
+            <g id="Photo" transform="translate(15.000000, 118.000000)">
+                <path d="M8.5,0 C3.808,0 0,3.808 0,8.5 C0,13.192 3.808,17 8.5,17 C13.192,17 17,13.192 17,8.5 C17,3.808 13.192,0 8.5,0 L8.5,0 Z M8.5,2.55 C9.911,2.55 11.05,3.689 11.05,5.1 C11.05,6.511 9.911,7.65 8.5,7.65 C7.089,7.65 5.95,6.511 5.95,5.1 C5.95,3.689 7.089,2.55 8.5,2.55 L8.5,2.55 Z M8.5,14.62 C6.375,14.62 4.4965,13.532 3.4,11.883 C3.4255,10.1915 6.8,9.265 8.5,9.265 C10.1915,9.265 13.5745,10.1915 13.6,11.883 C12.5035,13.532 10.625,14.62 8.5,14.62 L8.5,14.62 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

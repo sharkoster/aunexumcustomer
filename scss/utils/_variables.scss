@@ -1,0 +1,54 @@
+// colors
+:root {
+    --blue: #074975;
+    --donkergrijs: #454545;
+    --gold: #B88E2D;
+    --silver: #EFEFEF;
+    --platina: #7F7679;
+    --palladium: #B7B8B6;
+    --rhodium: #B4B6A6;
+    --green: #00ae61;
+    --black: #000a12;
+    --red-negative: #F92536;
+    --black-7: rgba(48, 48, 48, 0.07);
+}
+$white: var(--white);
+$blue: var(--blue);
+$donkergrijs: var(--donkergrijs);
+$gold: var(--gold);
+$silver: var(--silver);
+$platina: var(--platina);
+$palladium: var(--palladium);
+$rhodium: var(--rhodium);
+$green: var(--green);
+$black: var(--black);
+$red-negative: var(--red-negative);
+$black-7: var(--black-7);
+
+/* reset */
+$min-width: 320px; 
+$max-width: 1440px;
+$base-bg: $white;
+$base-font-size: 16px;
+$base-line-height: 1.1em;
+$base-font-family: 'Avenir-Regular', sans-serif;
+$custom-font-family: 'Castoro', serif;
+$link-color: $blue;
+$default-transition: all 0.2s linear;
+$default-box-shadow: 0 0 10px 5px rgba(221, 221, 221, 1);
+
+/* main variables */
+
+//text, titles
+$text-color: $donkergrijs;
+$title-color: $link-color;
+$title-font-family: $custom-font-family;
+
+$font-size-h1: 32px;
+//$line-height-h1: 42px;
+$font-size-h2: 22px;
+$line-height-h2: 2em;
+//$font-size-h3: 28px;
+//$line-height-h3: 32px;
+$font-size-h4: 16px;
+

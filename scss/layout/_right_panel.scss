@@ -1,0 +1,112 @@
+.course {
+    padding: 8px 13px 15px;
+    border-radius: 12px;
+    max-width: 330px;
+    max-height: 190px;
+    margin-bottom: 35px;
+    ul {
+        list-style-type: none;
+        padding-left: 0;
+        margin-left: 0;
+    }
+    @include shadow(0 4px 20px 0 rgba(0, 0, 0, 0.1));
+    &-metal {
+        li:first-child {
+            @include font('Avenir-Bold', 16px, $black);
+            line-height: 1.4em;
+        }
+        .red-course, .green-course  {
+            @include font('Avenir-Bold', 11px, $red-negative);
+            text-align: right;
+            & > b, & > b {
+                font-size: 1.5em;
+            }
+        }
+        .green-course {
+            color: $green !important;
+        }
+    }
+    &-buttons {
+        & > * {
+            margin-right: .5em;
+        }
+        button {
+            @include transition($default-transition);
+            @include button($base-bg, 0, 0, 1px, $gold, 30px, 25px, normal, 5px);
+            @include font( 'Avenir-Medium', 12px, $gold);
+            &:hover{
+                background-color: $gold;
+                color: $white;
+            }
+            &:focus {
+                border-width: 2px;
+            }
+        }
+    }
+}
+
+#silver {
+    button {
+        border-color: $silver;
+        color: $silver;
+        &:hover{
+            color: $black;
+            background-color: $silver;
+        }
+    }
+}
+
+#platina {
+    button {
+        border-color: $platina;
+        color: $platina;
+        &:hover {
+            color: $white;
+            background-color: $platina;
+        }
+    }
+}
+
+#palladium {
+    button {
+        border-color: $palladium;
+        color: $palladium;
+        &:hover {
+            color: $white;
+            background-color: $palladium;
+        }
+    }
+}
+
+#rhodium {
+    button {
+        border-color: $rhodium;
+        color: $rhodium;
+        &:hover {
+            color: $black;
+            background-color: $rhodium;
+        }
+    }
+}
+
+@media (min-width: 1450px) {
+    /*  >= 1450px */
+    .course {
+        margin-right: -15px;
+    }
+}
+
+@media (min-width: 1200px) {
+    /*  >= 1200px */
+    .course {
+        height: 190px;
+    }
+}
+
+@media (max-width: 1199px) {
+    /*  >= 1200px */
+    .course {
+       margin-left: 1em;
+        margin-right: 1em;
+    }
+}

@@ -1,0 +1,51 @@
+
+/*
+================================================================================
+|                                    Documenten                                  |
+================================================================================
+*/
+
+.documents {
+    max-width: 1075px;
+    margin: 0 auto 2em;
+    min-height: 300px;
+    .h2-header {
+        margin-bottom: 2em;
+    }
+    .bron {
+        top: 4.5em;
+    }
+    a {
+        font-family: 'Avenir-Demi', serif !important;
+        overflow: hidden;
+        img {
+            margin-bottom: -.5em;
+        }
+    }
+}
+
+.contact {
+    @include font('Avenir-Medium', 14px, inherit);
+}
+
+.addres20{
+    @include font('Avenir-Demi', 20px, $donkergrijs);
+    line-height: normal;
+}
+
+.blue-block {
+    padding: 0 23px 26px 28px;
+    border: solid 1px $blue;
+    .incut {
+        float: left;
+        width: 26px;
+        height: 42px;
+        margin: 5px 10px 5px 0;
+        //border: 1px solid #333;
+        img {
+            margin-top: 0;
+        }
+    }
+}
+
+

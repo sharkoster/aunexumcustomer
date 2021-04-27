@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 20 0 20 20 0 20"></polygon>
+    </defs>
+    <g id="-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AunexumSafe_Mijn-edelmetalen" transform="translate(-1514.000000, -369.000000)">
+            <g id="Group" transform="translate(423.000000, 187.000000)">
+                <g id="Group-Copy" transform="translate(1091.000000, 182.000000)">
+                    <g id="Group-3">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M19.6749936,4.4922867 C20.1083355,4.05889355 20.1083355,3.35322323 19.6749936,2.91983008 L17.0802033,0.325044863 C16.6467572,-0.108348288 15.9410855,-0.108348288 15.5077436,0.325044863 L13.4741256,2.35865888 L17.6413756,6.52590071 L19.6749936,4.4922867 Z M0,15.8327582 L0,20 L4.16724997,20 L16.4634503,7.7038237 L12.2962003,3.53658187 L0,15.8327582 Z" id="Fill-1" fill="#B88E2D" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

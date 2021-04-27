@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="384px" height="67px" viewBox="0 0 384 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 12 0 12 12 0 12"></polygon>
+        <polygon id="path-3" points="0 0 12 0 12 12 0 12"></polygon>
+    </defs>
+    <g id="-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AunexumSafe_Onboarding_stap3_Legitimeren" transform="translate(-767.000000, -210.000000)">
+            <g id="Group-5" transform="translate(740.000000, 211.000000)">
+                <circle id="Oval" fill="#B88E2D" cx="55" cy="10" r="10"></circle>
+                <circle id="Oval-Copy-3" fill="#B88E2D" cx="166" cy="10" r="10"></circle>
+                <circle id="Oval-Copy-2" stroke="#B88E2D" stroke-width="2" fill="#FFFFFF" cx="274" cy="10" r="10"></circle>
+                <circle id="Oval-Copy-4" stroke="#EFEFEF" stroke-width="2" fill="#FFFFFF" cx="382" cy="10" r="10"></circle>
+                <g id="Group-3" transform="translate(160.000000, 4.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M7.21594684,3.76312038 C5.68770764,5.39743424 4.43558509,7.07995335 3.46105574,8.81067772 L3.19232189,8.17312427 C2.65042451,6.9042374 2.1572536,6.26823895 1.71280915,6.26823895 C1.19453673,6.26823895 0.623108158,6.61500583 0,7.30698458 C0.369139904,7.4407153 0.702842377,7.71128677 0.99963086,8.11869898 C1.29641934,8.52611118 1.61830934,9.15433459 1.96382429,10.0049242 L2.20598007,10.5973824 C2.45994832,11.2473759 2.625323,11.7138785 2.69915098,12 C2.88962717,11.811844 3.24990772,11.5226124 3.78146918,11.1338603 L4.42081949,10.6782428 C5.21668512,8.91175327 6.37135474,7.00997797 7.88187523,4.97447195 C9.39387228,2.94052093 10.7655962,1.43371777 12,0.455617468 L11.6973053,0 C10.2384644,0.875469742 8.74418605,2.12880653 7.21594684,3.76312038" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                </g>
+                <g id="Group-3-Copy" transform="translate(49.000000, 4.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M7.21594684,3.76312038 C5.68770764,5.39743424 4.43558509,7.07995335 3.46105574,8.81067772 L3.19232189,8.17312427 C2.65042451,6.9042374 2.1572536,6.26823895 1.71280915,6.26823895 C1.19453673,6.26823895 0.623108158,6.61500583 0,7.30698458 C0.369139904,7.4407153 0.702842377,7.71128677 0.99963086,8.11869898 C1.29641934,8.52611118 1.61830934,9.15433459 1.96382429,10.0049242 L2.20598007,10.5973824 C2.45994832,11.2473759 2.625323,11.7138785 2.69915098,12 C2.88962717,11.811844 3.24990772,11.5226124 3.78146918,11.1338603 L4.42081949,10.6782428 C5.21668512,8.91175327 6.37135474,7.00997797 7.88187523,4.97447195 C9.39387228,2.94052093 10.7655962,1.43371777 12,0.455617468 L11.6973053,0 C10.2384644,0.875469742 8.74418605,2.12880653 7.21594684,3.76312038" id="Fill-1" fill="#FFFFFF" mask="url(#mask-4)"></path>
+                </g>
+                <line x1="74.125" y1="10.5" x2="146.875" y2="10.5" id="Line" stroke="#B88E2D" stroke-width="3" stroke-linecap="round"></line>
+                <line x1="183.125" y1="10.5" x2="255.875" y2="10.5" id="Line-Copy-2" stroke="#B88E2D" stroke-width="3" stroke-linecap="round"></line>
+                <line x1="293.125" y1="10.5" x2="365.875" y2="10.5" id="Line-Copy-3" stroke="#EFEFEF" stroke-width="3" stroke-linecap="round"></line>
+                <text id="Welkom" font-family="Castoro-Regular, Castoro" font-size="14" font-weight="normal" fill="#B88E2D">
+                    <tspan x="28.274" y="48">Welkom</tspan>
+                </text>
+                <text id="Gegevens-controleren" font-family="Castoro-Regular, Castoro" font-size="14" font-weight="normal" fill="#B88E2D">
+                    <tspan x="134.508" y="48">Gegevens</tspan>
+                    <tspan x="127.991" y="62">controleren</tspan>
+                </text>
+                <text id="Legitimatiebewijs-to" font-family="Castoro-Regular, Castoro" font-size="14" font-weight="normal" fill="#B88E2D">
+                    <tspan x="220.444" y="48">Legitimatiebewijs</tspan>
+                    <tspan x="243.964" y="62">toevoegen</tspan>
+                </text>
+                <text id="Voltooid!" font-family="Castoro-Regular, Castoro" font-size="14" font-weight="normal" fill="#B7B8B6" fill-opacity="0.5">
+                    <tspan x="352.243" y="48">Voltooid!</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

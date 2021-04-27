@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b9df389-08c9-4249-a624-77ac0e0df3d9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1n3p8djo05DwdYPLkmVRdTHrQcU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OpenServer\domains\aunexumcustomer" />
+      <recent name="D:\OpenServer\domains\aunexumcustomer\uploads" />
+      <recent name="D:\OpenServer\domains\aunexumcustomer\layouts" />
+      <recent name="D:\OpenServer\domains\aunexumcustomer\img\icons\arrow" />
+      <recent name="D:\OpenServer\domains\aunexumcustomer\uploads\Export\icons\arrow" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b9df389-08c9-4249-a624-77ac0e0df3d9" name="Default Changelist" comment="" />
+      <created>1610628473228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610628473228</updated>
+      <workItem from="1610628475119" duration="1685000" />
+      <workItem from="1610630216492" duration="19705000" />
+      <workItem from="1610661406752" duration="111000" />
+      <workItem from="1610796923203" duration="20599000" />
+      <workItem from="1610911834141" duration="9684000" />
+      <workItem from="1610998930222" duration="9024000" />
+      <workItem from="1611046292497" duration="25909000" />
+      <workItem from="1611139854565" duration="14422000" />
+      <workItem from="1611404262653" duration="1122000" />
+      <workItem from="1611429636207" duration="6945000" />
+      <workItem from="1611492699021" duration="19321000" />
+      <workItem from="1611572132782" duration="3166000" />
+      <workItem from="1611576983656" duration="21634000" />
+      <workItem from="1611677557227" duration="17891000" />
+      <workItem from="1611738146662" duration="30666000" />
+      <workItem from="1611825863647" duration="12393000" />
+      <workItem from="1611947920400" duration="3278000" />
+      <workItem from="1611952293464" duration="9185000" />
+      <workItem from="1611997436162" duration="17173000" />
+      <workItem from="1613376411021" duration="22196000" />
+      <workItem from="1613562219069" duration="18573000" />
+      <workItem from="1613649814924" duration="21898000" />
+      <workItem from="1613735148085" duration="16320000" />
+      <workItem from="1614164346040" duration="7378000" />
+      <workItem from="1614462011176" duration="1209000" />
+      <workItem from="1614520621360" duration="1570000" />
+      <workItem from="1614523744616" duration="1904000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="385" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1611160488516">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="765" y="385" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/2560.162.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1611160488516" />
+    <state x="718" y="334" width="660" height="678" key="EditFileWatcherDialog" timestamp="1614524018845">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="718" y="334" width="660" height="678" key="EditFileWatcherDialog/2560.162.1080.1870/0.0.2048.1112@0.0.2048.1112" timestamp="1610630577843" />
+    <state x="718" y="334" key="EditFileWatcherDialog/2560.162.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1614524018845" />
+    <state x="829" y="428" key="FileChooserDialogImpl" timestamp="1611787156432">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="829" y="428" key="FileChooserDialogImpl/2560.162.1080.1870/0.0.2048.1112@0.0.2048.1112" timestamp="1610630321262" />
+    <state x="829" y="428" key="FileChooserDialogImpl/2560.162.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1611787156432" />
+    <state x="820" y="279" key="NewPhpClassDialog" timestamp="1610630016341">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="820" y="279" key="NewPhpClassDialog/2560.162.1080.1870/0.0.2048.1112@0.0.2048.1112" timestamp="1610630016341" />
+    <state x="884" y="479" key="NewPhpFileDialog" timestamp="1611064326821">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="884" y="479" key="NewPhpFileDialog/2560.162.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1611064326821" />
+    <state x="557" y="201" key="SettingsEditor" timestamp="1614524022187">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="557" y="201" key="SettingsEditor/2560.162.1080.1870/0.0.2048.1112@0.0.2048.1112" timestamp="1610630579856" />
+    <state x="557" y="201" key="SettingsEditor/2560.162.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1614524022187" />
+    <state x="691" y="218" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1611073031765">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="691" y="218" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/2560.162.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1611073031765" />
+    <state x="0" y="0" width="1301" height="951" key="dock-window-1" timestamp="1611502180197">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="0" y="0" width="1301" height="951" key="dock-window-1/2560.162.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1611502180197" />
+    <state x="758" y="289" width="579" height="592" key="find.popup" timestamp="1613677644587">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="758" y="289" width="579" height="534" key="find.popup/2560.162.1080.1870/0.0.2048.1112@0.0.2048.1112" timestamp="1610629935171" />
+    <state x="758" y="289" width="579" height="592" key="find.popup/2560.162.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1613677644587" />
+    <state x="841" y="512" key="scopes" timestamp="1610630289319">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="841" y="512" key="scopes/2560.162.1080.1870/0.0.2048.1112@0.0.2048.1112" timestamp="1610630289319" />
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="16px" viewBox="0 0 15 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Locatie&gt;Nederland</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.16768 14.83625 0.16768 14.83625 15.359936 0 15.359936"></polygon>
+    </defs>
+    <g id="-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AunexumSafe_Mijn-edelmetalen" transform="translate(-1320.000000, -336.000000)">
+            <g id="Group" transform="translate(423.000000, 187.000000)">
+                <g id="Locatie&gt;Nederland" transform="translate(897.000000, 149.000000)">
+                    <g id="Group-10">
+                        <path d="M15,8 C15,12.0165749 11.8019932,15.2727273 7.85714286,15.2727273" id="Fill-1" fill="#FEFEFE"></path>
+                        <g id="Group-5">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-4"></g>
+                            <path d="M7.418125,15.359936 C3.32125,15.359936 0,11.958976 0,7.763776 C0,3.568576 3.32125,0.167616 7.418125,0.167616 C11.515,0.167616 14.83625,3.568576 14.83625,7.763776" id="Fill-3" fill="#FEFEFE" mask="url(#mask-2)"></path>
+                        </g>
+                        <path d="M7.5,0 C4.38909352,0 1.73662359,2.11830748 0.714285714,5.09090909 L14.2857143,5.09090909 C13.2633764,2.11830748 10.6109065,0 7.5,0" id="Fill-6" fill="#D80F28"></path>
+                        <path d="M7.5,15.2727273 C10.6109065,15.2727273 13.2633764,13.1544198 14.2857143,10.1818182 L0.714285714,10.1818182 C1.73662359,13.1544198 4.38909352,15.2727273 7.5,15.2727273" id="Fill-8" fill="#2054A1"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

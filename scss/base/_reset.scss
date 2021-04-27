@@ -1,0 +1,86 @@
+@import '../utils/_variables';
+@import '../utils/_mixins';
+@import '../utils/_form';
+
+html {
+  height: 100%;
+}
+
+input:-moz-read-only:focus{
+  outline: none 0;
+}
+:read-only:focus {
+  outline: -webkit-focus-ring-color auto 0;
+}
+
+body {
+  font-family: $base-font-family;
+  background-color: $base-bg;
+  height: 100%;
+  line-height: $base-line-height;
+  position: relative;
+  font-size: $base-font-size;
+  color: $text-color;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+img {
+  margin-top: -.5em;
+  margin-right: .3em;
+}
+
+a {
+    color: $link-color;
+    &:visited {
+      color: $link-color;
+    }
+}
+
+.font-weight-normal {
+  font-family: 'Avenir-Medium', sans-serif;
+  font-size: 14px;
+}
+
+.font-weight-bold,
+b {
+  font-family: 'Avenir-Bold', sans-serif;
+}
+strong {
+  font-family: 'Castoro', sans-serif;
+  font-weight: 700;
+}
+
+a.active.focus,
+a.active:focus,
+a.focus,
+a:active.focus,
+a:active:focus,
+a:focus,
+button.active.focus,
+button.active:focus,
+button.focus,
+button:active.focus,
+button:active:focus,
+button:focus,
+.btn.active.focus,
+.btn.active:focus,
+.btn.focus,
+.btn:active.focus,
+.btn:active:focus,
+.btn:focus {
+  outline: 0 !important;
+  outline-color: transparent !important;
+  outline-width: 0 !important;
+  outline-style: none !important;
+  box-shadow: 0 0 0 0 rgba(0, 123, 255, 0) !important;
+}
+
+.clearfix:after,
+.wrapper:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Locatie&gt;Nederland Copy 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.5373375 20.462575 0.5373375 20.462575 21 0 21"></polygon>
+    </defs>
+    <g id="-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AunexumSafe_Mijn-edelmetalen" transform="translate(-1320.000000, -537.000000)">
+            <g id="Group" transform="translate(423.000000, 187.000000)">
+                <g id="Locatie&gt;Zwitserland" transform="translate(897.000000, 350.000000)">
+                    <g id="Group">
+                        <g id="Group-3">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-2"></g>
+                            <path d="M20.462575,10.7687125 C20.462575,16.4194625 15.88195,21.0000875 10.2312,21.0000875 C4.58045,21.0000875 -0.000175,16.4194625 -0.000175,10.7687125 C-0.000175,5.1179625 4.58045,0.5373375 10.2312,0.5373375 C15.88195,0.5373375 20.462575,5.1179625 20.462575,10.7687125" id="Fill-1" fill="#D80F28" mask="url(#mask-2)"></path>
+                        </g>
+                        <polygon id="Fill-4" fill="#FEFEFE" points="16 8.66666667 12.3333333 8.66666667 12.3333333 5 8.66666667 5 8.66666667 8.66666667 5 8.66666667 5 12.3333333 8.66666667 12.3333333 8.66666667 16 12.3333333 16 12.3333333 12.3333333 16 12.3333333"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
